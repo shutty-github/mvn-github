@@ -13,5 +13,6 @@ public class App
         System.out.println( "Congratulation!!!" );
         System.out.println( "Test edit from github" );
         //Test edit from github and pull into local then push new revision back to server
+        //Thank you for your information.
     }
 }
